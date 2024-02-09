@@ -8,12 +8,15 @@ These factors are used as input features for the machine learning model. The sel
 
 ## Table of Contents
 
-- [Loan Prediction](#Loan-Prediction)
 - [Project Overview](#Project-Overview)
-
+- [Description](#Description)
+- [Techniques](#Techniques)
+  
 ## Description
 With this project we will create reliable and accurate models that assists lenders in making sound and informed decisions, leading to a more effective and responsible lending process.
 We will utilize Logistic Regressions and Decision Trees to provide a comprehensive view of sn applicant's financial situation and help lenders assess the risk associated with lending to a particular individual.
 
 By the end, students will be able to comfortably create their own data science projects. 
 
+## Techniques 
+Data Cleaning, Data Processing, Logistics regression, Decision trees
